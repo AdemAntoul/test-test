@@ -1,0 +1,17 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+IT+Moderna:wght@100..400&display=swap');
+
+button {
+    font-family: "Playwrite IT Moderna", cursive;
+    color: blue;
+    border-color: chartreuse;
+    border-radius: 50px;
+    background-color: black;
+    padding:0 50px 0 0;
+    height: 250px;
+    width: 250px;
+    border-width: 10px;
+    margin: 30px;
+}
+ span { color: red;}
+ 

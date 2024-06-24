@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&family=Playwrite+IT+Moderna:wght@100..400&display=swap');
+p {
+    font-family:  "Oswald", sans-serif;
+    font-weight:200;
+    text-decoration: underline overline dashed orangered ;
+    text-underline-offset: 10px;
+    word-spacing: 20px;
+    letter-spacing: 8px;
+    text-align: center;
+    text-transform: capitalize;
+    line-height: 50px;
+    font-size: 17px;
+    color: darkcyan;
+    font-style: italic;
+    
+
+}

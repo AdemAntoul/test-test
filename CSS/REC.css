@@ -1,0 +1,23 @@
+.Rec {
+    height: 100px;
+    width: 100px;
+    background-color: red;
+    border-color: aquamarine;
+    border-radius: 50em;
+    margin: 30px;
+    float:left;
+    border: 10px double black ;
+}
+.SQR {
+    height: 0px;
+    width: 0px;
+    float: right;
+    margin: 30px;
+    width: 0;
+    height: 0;
+    border-left: 50px solid transparent;
+    border-right: 50px solid transparent;
+    border-bottom: 100px solid blue
+
+    
+}
